@@ -1,0 +1,47 @@
+USE msdb
+GO
+SELECT  *
+FROM    sysmail_allitems
+GO
+SELECT  *
+FROM    sysmail_sentitems
+GO
+SELECT  *
+FROM    sysmail_unsentitems
+GO
+SELECT  *
+FROM    dbo.sysmail_faileditems 
+GO
+SELECT  *
+FROM    dbo.sysmail_mailitems 
+GO
+SELECT  *
+FROM    dbo.sysmail_log
+GO
+Mail Accounts and Profile Information
+
+
+SELECT  *
+FROM    dbo.sysmail_profile
+SELECT  *
+FROM    dbo.sysmail_account
+
+SELECT * FROM dbo.sysmail_configuration
+
+SELECT * FROM dbo.sysmail_server
+1
+2
+3
+4
+5
+6
+7
+8
+SELECT  *
+FROM    dbo.sysmail_profile
+SELECT  *
+FROM    dbo.sysmail_account
+ 
+SELECT * FROM dbo.sysmail_configuration
+ 
+SELECT * FROM dbo.sysmail_server

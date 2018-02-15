@@ -1,0 +1,14 @@
+CUS_ID	 EMPLOYEES_ADDRESS  EMAIL_ADDRESS
+19        4 OLD BOWN          RETYI
+20        TELE COURT          VERTYKE
+21         HOUSE RT           FILTY
+22        ANTER .AVE           MYRTO
+23        THERTY LAN           YUWTY
+24        GARNDER.TY           WAERY
+25        GRUOPU.RD            QUITY
+26        MOVER QY             THSYU
+27       SHYDKD                ATYER
+28       THWEY.HD              WEYRH
+29       AUKEO.ER              GIYT 
+30       QYUWD                 AUYTN
+

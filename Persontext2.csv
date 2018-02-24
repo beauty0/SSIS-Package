@@ -1,0 +1,26 @@
+GeographyKey,PersonID,City,StateProvinceCode,StateProvinceName,CountryRegionCode,PostalCode
+20,1,Birmingham,AL,Alabama,US,135203
+21,2,Florence,AL,Alabama,US,35630
+22,3,Huntsville,AL,Alabama,US,35801
+23,4,Mobile,AL,Alabama,US,36602
+24,5,Montgomery,AL,Alabama,US,36104
+25,6,Chandler,AZ,Arizona,US,85225
+26,7,Gilbert,AZ,Arizona,US,85233
+27,8,Mesa,AZ,Arizona,US,85201
+28,9,Phoenix,AZ,Arizona,US,85004
+29,10,Scottsdale,AZ,Arizona,US,85257
+30,11,Surprise,AZ,Arizona,US,85374
+31,12,Tucson,AZ,Arizona,US,85701
+32,14,Alhambra,CA,California,US,91801
+33,15,Alpine,CA,California,US,91901
+34,16,Auburn,CA,California,US,95603
+35,17,Baldwin Park,CA,California,US,91706
+36,18,Barstow,CA,California,US,92311
+37,19,Bell Gardens,CA,California,US,90201
+38,20,Bellflower,CA,California,US,90706
+39,21,Berkeley,CA,California,US,94704
+40,22,Beverly Hills,CA,California,US,90210
+41,23,Burbank,CA,California,US,91502
+42,24,Burlingame,CA,California,US,94010
+43,25,Camarillo,CA,California,US,93010
+44,26,Canoga Park,CA,California,US,91303
